@@ -1,4 +1,4 @@
-package Tasks
+package working_with_the_module
 
 import "fmt"
 
